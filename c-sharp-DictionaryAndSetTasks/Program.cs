@@ -39,6 +39,17 @@ internal class Program
             Console.Write(element+" ");
         }
 
+        int[] array1 = { 1, 2, 3, 4, 5 };
+        int[] array2 = { 4, 5, 6, 7, 8 };
+
+        HashSet<int> intersectionSet = HashSet.GetArrayIntersection(array1, array2);
+
+        Console.WriteLine("Intersection of array1 and array2:");
+        foreach (int element in intersectionSet)
+        {
+            Console.WriteLine(element);
+        }
+
 
     }
 }
