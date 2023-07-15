@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 namespace c_sharp_DictionaryAndSetTasks
 {
     /*
-    Task 3: Phone Book
-        Create a phone book program that allows users to add, search, and delete contacts.Use a Dictionary to
-        store the contacts, where the keys are the names and the values are the phone numbers.Implement
-        functions to add a contact, search for a contact by name, and delete a contact by name. 
+        Task 3: Phone Book
+            Create a phone book program that allows users to add, search, and delete contacts.Use a Dictionary to
+            store the contacts, where the keys are the names and the values are the phone numbers.Implement
+            functions to add a contact, search for a contact by name, and delete a contact by name. 
         */
     internal class PhoneBook
     {
@@ -19,27 +19,34 @@ namespace c_sharp_DictionaryAndSetTasks
 
         public void add(string name, string phoneNumber)
         {
-            contactInfo[name] = name;
-            contactInfo[phoneNumber] = phoneNumber;
+            contactInfo[name] = phoneNumber;
+            Console.WriteLine($"Contact '{name}' has been added with phone number '{phoneNumber}'.");
+
         }
-        public string remove(string name)
+        public void remove(string name)
         {
-            string? phoneNumber = null;
-           if(contactInfo.Remove(name,out phoneNumber))
+            if (contactInfo.ContainsKey(name))
             {
-                return phoneNumber;
-
+                contactInfo.Remove(name);
+                Console.WriteLine($"Contact '{name}' has been deleted.");
             }
-            return null;
+            else
+            {
+                Console.WriteLine($"Contact '{name}' not found.");
+            }
         }
 
-        public string search(string name) 
-        { 
-            if(contactInfo.TryGetValue(name,out name))
+        public void search(string name) 
+        {
+            if (contactInfo.ContainsKey(name))
             {
-                return name;
+                string phoneNumber = contactInfo[name];
+                Console.WriteLine($"Contact found: '{name}' with phone number '{phoneNumber}'.");
             }
-            return null;
+            else
+            {
+                Console.WriteLine($"Contact '{name}' not found.");
+            }
         }
        
     }
