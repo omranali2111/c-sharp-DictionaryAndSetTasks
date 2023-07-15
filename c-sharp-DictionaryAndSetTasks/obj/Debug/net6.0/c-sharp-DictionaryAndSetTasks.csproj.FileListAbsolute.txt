@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\c-sharp-DictionaryAndSetTasks.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\c-sharp-DictionaryAndSetTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\c-sharp-DictionaryAndSetTasks.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\c-sharp-DictionaryAndSetTasks.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\c-sharp-DictionaryAndSetTasks.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\bin\Debug\net6.0\c-sharp-DictionaryAndSetTasks.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\bin\Debug\net6.0\c-sharp-DictionaryAndSetTasks.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\bin\Debug\net6.0\c-sharp-DictionaryAndSetTasks.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\bin\Debug\net6.0\c-sharp-DictionaryAndSetTasks.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\bin\Debug\net6.0\c-sharp-DictionaryAndSetTasks.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\c-sharp-DictionaryAndSetTasks.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\refint\c-sharp-DictionaryAndSetTasks.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\c-sharp-DictionaryAndSetTasks.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\c-sharp-DictionaryAndSetTasks.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-DictionaryAndSetTasks\c-sharp-DictionaryAndSetTasks\obj\Debug\net6.0\ref\c-sharp-DictionaryAndSetTasks.dll
