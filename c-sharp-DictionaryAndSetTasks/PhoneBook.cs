@@ -48,6 +48,18 @@ namespace c_sharp_DictionaryAndSetTasks
                 Console.WriteLine($"Contact '{name}' not found.");
             }
         }
-       
+        public void edit(string name, string newPhoneNumber)
+        {
+            if (contactInfo.ContainsKey(name))
+            {
+                contactInfo[name] = newPhoneNumber;
+                Console.WriteLine($"Contact '{name}' has been edited with new phone number '{newPhoneNumber}'.");
+            }
+            else
+            {
+                Console.WriteLine($"Contact '{name}' not found.");
+            }
+        }
+
     }
 }
