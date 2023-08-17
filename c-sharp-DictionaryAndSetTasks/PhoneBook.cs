@@ -15,7 +15,7 @@ namespace c_sharp_DictionaryAndSetTasks
         */
     internal class PhoneBook
     {
-        Dictionary<string, string> contactInfo = new Dictionary<string, string>();
+        Dictionary<string, string> contactInfo = new Dictionary<string, string>();//
 
         public void add(string name, string phoneNumber)
         {
